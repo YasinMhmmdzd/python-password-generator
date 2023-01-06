@@ -7,5 +7,3 @@ It's copying automatical password !!!
 ``` pip install colorama ```
 > ### pyperclip
 ``` pip install pyperclip ```
-## image
-![This is an image](http://mhmmdzd-v.epizy.com/pic.png)
