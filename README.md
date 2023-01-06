@@ -8,4 +8,4 @@ It's copying automatical password !!!
 > ### pyperclip
 ``` pip install pyperclip ```
 ## image
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](http://mhmmdzd-v.epizy.com/pic.png)
+![This is an image](http://mhmmdzd-v.epizy.com/pic.png)
