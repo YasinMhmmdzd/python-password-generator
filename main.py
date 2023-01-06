@@ -1,7 +1,6 @@
 import random
 from colorama import Fore
 import pyperclip
-import os
 print(Fore.BLUE + "welcome")
 while True:
     chars = []
@@ -15,8 +14,7 @@ while True:
         print(Fore.GREEN + new_password)
         pyperclip.copy(new_password)
         print("password copid to clipboard !!!")
-        clear = lambda:os.system('cls')
-        clear()
+        print("")
     elif password_range == 0:
         break
     else:
